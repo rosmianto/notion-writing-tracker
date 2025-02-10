@@ -1,0 +1,4 @@
+.env
+node_modules
+notion.db
+wordcount.db
